@@ -8,7 +8,7 @@ Este repositório contém um notebook que realiza uma análise exploratória de 
 
 O objetivo deste notebook é examinar a base de dados de parques urbanos, identificando padrões e tendências que possam contribuir para o desenvolvimento do aplicativo. Através de visualizações e estatísticas descritivas, buscamos entender a distribuição, características e gestão dos parques, fornecendo insights que ajudem a melhorar a experiência do usuário no **Praceando**.
 
-##Descrição da Base
+## Descrição da Base
 A base de dados analisada contém informações detalhadas sobre parques urbanos, incluindo:
 
 - Categorias dos Parques: Classificação dos parques, como parques recreativos, parques botânicos, entre outros.
